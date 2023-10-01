@@ -1,0 +1,4 @@
+package com.bookstore.inventorymanagementservice.exceptions;
+
+public class StorageBookNotFoundException extends InventoryManagementServiceException{
+}
